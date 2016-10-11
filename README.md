@@ -11,6 +11,7 @@ http://www.minipa.com.br/Content/Manuais/X7Q4J1S7-MFG-4221-1103-BR.pdf*
 
 Para a automação e controle de processos, uma linguagem muito utilizada em universidades, é a linguagem de programação visual [LabView](http://www.ni.com/labview/pt/).
 Na figura abaixo temos as telas do painel frontal do programa teste e a foto do bloco de diagrama.
+
 ![Front Panel](https://github.com/andretec/Gerador-MFG-4221/blob/master/Front-Panel.png)
 ![Block Diagram](https://github.com/andretec/Gerador-MFG-4221/blob/master/Block-Diagram.png)
 
